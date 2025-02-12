@@ -1,0 +1,27 @@
+# colorhunt.co (To explore different types of professional colors 
+
+#https://www.paintcodeapp.com/news (to check the iPhone screen aspect ratios with resolutions)
+
+# select view then custom color to set background color
+
+# main.storyboard for viewing the UI in iPhones
+# launchScreen.storyboard displays the UI after launching the UI
+
+# command+Z -> undo task
+
+# explore object library (+ sign), different panes (navigator, debug, inspector, code, document -> pdf is there)
+
+# use 2 finger to change position of the iPhone ui in the screen and click view controller to place it center again
+
+# command + Y -> open and close debug console
+
+# check Xcode shortcuts in the png image of this folder
+
+# add custom fonts, colors, background colors, positioning components 
+
+# size, width, height, position of a component can be changed in the attribute inspector
+
+
+
+
+
