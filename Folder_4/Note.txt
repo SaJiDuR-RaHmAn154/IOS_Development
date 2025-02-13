@@ -1,0 +1,32 @@
+# Dealing with UI elements having Actions (Buttons,etc)
+
+# You can just close the Xcode. It will save your data in every 2-3s 
+
+# Clone Github repo 
+
+# Copy and paste the swift gitHub page link .git address and open Xcode, click clone existing repo and paste the address. Then run the Project on iPhone.
+
+# If you want to run this on Physical device, then you have to change the team settings and also the bundle identifier(it should be completely unique. I used com.sajid.projectName) by clicking the project name in Xcode and in the signing and billing option.
+
+# You should run cloned project in simulator instead of physical device for safety issues
+
+
+# Creating Dicee app
+
+- create an image view. Drag it to the corner and then expand it to the whole window to make it as a background 
+
+- Go to image view inspector  and put the green background from the drop down box
+
+- Now to fill the whole screen with that image, we will change the content mode. 
+   
+  Most used content modes( Aspect Fit (half screen), Scale to Fill (looks kinda stressed out though it fills the entire screen), Aspect Fill(Fills Full screeen without changing the aspect ratio of the image))
+
+- Then place the Dicee logo at the top by creating an image view 
+
+- Place diceOne at left side and set 120x120 square size from inspector pane
+
+- Copy a component by selecting it and press option key and then drag the item to copy. 1->2 then 2->4 then 4->8 (thus you can replicate)
+
+- Add a button. Change text color, text,background 
+- to change background, we can go to custom option in color, then put the sword option(color dropper tool) to any color that we want, then take the color to that particular component 
+
