@@ -21,6 +21,42 @@
 
 # size, width, height, position of a component can be changed in the attribute inspector
 
+# adding images
+
+ Image View Library element 
+ 
+ Assets.xassets folder a thakbe images formats
+
+ Drag and drop the image file in this folder while Xcode is open
+
+# https://www.appicon.co/#image-sets (Drag and drop images to generate 1x,2x,3x resolution image)
+
+ After downloading generated images for iOS, drag and drop them to that assets.xassets folder 
+
+ Xcode will recognize 1x,2x,3x automatically  and put them on slots
+
+ Then go to the main.storyboard and select image and inspector-> drop down and diamond 
+
+
+# Adding appicon 
+
+ -go to the assets folder and drag and drop the icons images from IamRich folder 
+
+ -1024 image will not fit automatically. So fit it manually
+
+# https://www.appicon.co/#app-icon (you can generate your app icons from here by uploading pic)
+
+# https://www.canva.com/ (create you own shapes, presentations, various things here-click custom size and input it)
+
+
+# create your own design, download it by naming it png/jpg then upload it in appicon.co site and download the file. The file will be named assets.xcassets and replace the Appicon.iconset in the Xcode iamrich folder
+
+
+# just click the run button at status bar after selecting the iPhone device. The app will be launched in the Xcode simulator
+
+# Deploying app in physical iPhone (check Folder_2 -> 009 last part both wired and wirelessly)
+
+
 
 
 
